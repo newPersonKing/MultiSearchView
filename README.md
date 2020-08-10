@@ -1,3 +1,6 @@
+原项目地址：https://github.com/iammert/MultiSearchView
+基于原本的项目 把指示器居中
+
 # MultiSearchView
 Yet another built-in animated search view for Android. 
 
